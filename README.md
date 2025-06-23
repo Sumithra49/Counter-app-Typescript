@@ -29,3 +29,7 @@ A simple counter application built using **React** and **TypeScript**. This app 
    ```bash
    git clone https://github.com/your-username/counter-app.git
    cd counter-app
+
+
+   ![image](https://github.com/user-attachments/assets/b6ea23ca-322a-4973-a62b-1e4affe663be)
+
